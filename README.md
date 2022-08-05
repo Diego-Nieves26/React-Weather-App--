@@ -25,7 +25,7 @@ Desarrolle una aplicación que muestre datos del clima, obteniendo de la API los
 * [Portafolio web](https://nvs-dlc.netlify.app)
 
 ## Abrir App
-- [Wheater App](https://polite-pithivier-90a030.netlify.app/)
+- [Wheater App](https://incandescent-cannoli-66ab91.netlify.app/)
 
 ## Contratación
 Si quieres contratarme puedes escribirme a nieves.diego0426@gmail.com 👍.
