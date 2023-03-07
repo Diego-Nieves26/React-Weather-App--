@@ -1,3 +1,8 @@
+# Weather App
+<div align="center" width="50">
+    <img src="./src/assets/bg.png" width="75%"/>
+</div><br/>
+
 ## Descripción
 
 Utilice la API gratuita de [Open Weather App](https://openweathermap.org), usando el método getCurretPosition() obtuve las coordenadas del usuario. Usando las coordenadas obtenidas las utilicé en la API para obtener la información necesaria.
@@ -27,5 +32,11 @@ Desarrolle una aplicación que muestre datos del clima, obteniendo de la API los
 ## Abrir App
 - [Wheater App](https://incandescent-cannoli-66ab91.netlify.app/)
 
-## Contratación
-Si quieres contratarme puedes escribirme a nieves.diego0426@gmail.com 👍.
+## Contactame
+
+Si quieres contactarme puedes escribirme a nieves.diego0426@gmail.com 👍.
+
+<br/><br/>
+<div align="right" width="50">
+    <img src="./src/assets/logo_secondary.webp" width="15%"/>
+</div>
