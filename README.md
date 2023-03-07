@@ -19,8 +19,10 @@ Desarrolle una aplicación que muestre datos del clima, obteniendo de la API los
 
 ## Utilice
 
-- React
+- ReactJs
+- Javascript
 - Css
+- Html
 - Axios
 - Frame Motion
 
