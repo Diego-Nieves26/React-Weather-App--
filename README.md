@@ -27,7 +27,7 @@ Desarrolle una aplicación que muestre datos del clima, obteniendo de la API los
 ## Autor
 ** Diego Nieves **
 * [LinkedIn](https://www.linkedin.com/in/diego-nieves-04b409242/)
-* [Portafolio web](https://nvs-dlc.netlify.app)
+* [Portafolio web](https://nvs-portfolio.netlify.app)
 
 ## Abrir App
 - [Wheater App](https://incandescent-cannoli-66ab91.netlify.app/)
